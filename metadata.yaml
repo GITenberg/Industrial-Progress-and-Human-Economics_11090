@@ -1,0 +1,26 @@
+_repo: Industrial-Progress-and-Human-Economics_11090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartness, James
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '3836'
+    url: http://www.gutenberg.org/2009/agents/3836
+    wikipedia: http://en.wikipedia.org/wiki/James_Hartness
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial efficiency'
+- !lcsh 'Personnel management'
+- !lcc 'HF'
+- GITenberg
+title: Industrial Progress and Human Economics
+url: http://www.gutenberg.org/ebooks/11090
